@@ -1,6 +1,6 @@
 {
   "name": "pascals-frontend-stuff",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "description": "Basic POC",
   "main": "index.js",
   "scripts": {
