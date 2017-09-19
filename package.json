@@ -1,0 +1,19 @@
+{
+  "name": "pascals-frontend-stuff",
+  "version": "0.0.1",
+  "description": "Basic POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pascalvb/frontend-stuff.git"
+  },
+  "author": "Pascal von Bueren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pascalvb/frontend-stuff/issues"
+  },
+  "homepage": "https://github.com/pascalvb/frontend-stuff#readme"
+}
